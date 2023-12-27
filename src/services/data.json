@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "date": "2021-01-01",
+    "weather": "10",
+    "visibility": "Clear",
+    "comment": "First day of the year"
+  },
+  {
+    "id": 2,
+    "date": "2021-01-02",
+    "weather": "15",
+    "visibility": "Cloudy",
+    "comment": "Slightly warmer"
+  },
+  {
+    "id": 3,
+    "date": "2021-01-03",
+    "weather": "12",
+    "visibility": "Rain",
+    "comment": "Bring an umbrella"
+  },
+  {
+    "id": 4,
+    "date": "2021-01-04",
+    "weather": "8",
+    "visibility": "Fog",
+    "comment": "Drive carefully"
+  },
+  {
+    "id": 5,
+    "date": "2021-01-05",
+    "weather": "6",
+    "visibility": "Snow",
+    "comment": "Winter is here"
+  },
+  {
+    "id": 6,
+    "date": "2021-01-06",
+    "weather": "9",
+    "visibility": "Clear",
+    "comment": "Enjoy the sunshine"
+  },
+  {
+    "id": 7,
+    "date": "2021-01-07",
+    "weather": "14",
+    "visibility": "Cloudy",
+    "comment": "Perfect day for a walk"
+  },
+  {
+    "id": 8,
+    "date": "2021-01-08",
+    "weather": "11",
+    "visibility": "Rain",
+    "comment": "Stay dry"
+  },
+  {
+    "id": 9,
+    "date": "2021-01-09",
+    "weather": "7",
+    "visibility": "Fog",
+    "comment": "Low visibility"
+  },
+  {
+    "id": 10,
+    "date": "2021-01-10",
+    "weather": "5",
+    "visibility": "Snow",
+    "comment": "Bundle up"
+  }
+]
